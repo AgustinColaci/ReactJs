@@ -1,0 +1,1 @@
+const mostrarEnviado = (e) => { e.preventDefault(); alert('¡Consulta enviada con éxito!')}
